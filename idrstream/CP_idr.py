@@ -386,7 +386,7 @@ class CellProfilerRun:
                 self.compile_batch_CP_features(
                     output_path
                 )  # compile and save features with PyCytominer
-                self.clear_batch()  # delete image/segmentation data for batch
+                #self.clear_batch()  # delete image/segmentation data for batch
             except Exception as e:
                 self.logger.info(f"Error while profiling batch {batch_num}:")
                 self.logger.error(e)

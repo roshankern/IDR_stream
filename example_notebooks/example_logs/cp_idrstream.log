@@ -363,3 +363,78 @@ batches 386
 2023-02-21 13:40:22,378 - INFO - Batch features compiled for CellProfiler features
 2023-02-21 13:40:22,383 - INFO - Temporary batch files cleared
 2023-02-21 13:40:22,389 - INFO - Stream run done in 482.4993929862976 seconds!
+2023-02-21 15:10:50,305 - INFO - IDR stream initialized
+2023-02-21 15:10:50,374 - INFO - CellProfiler metadata has been converted and saved
+2023-02-21 15:10:50,467 - INFO - Aspera downloader initialized
+2023-02-21 15:10:53,662 - INFO - Basicpy preprocessor initialized
+2023-02-21 15:10:53,685 - INFO - Copied metadata file for CellProfiler run to use
+2023-02-21 15:10:54,689 - INFO - Running IDR stream with: 
+batch_size 10 
+start_batch 0 
+batches 386
+2023-02-21 15:10:54,689 - INFO - Profiling batch 0 with CellProfiler
+2023-02-21 15:10:54,690 - INFO - Processing well A15 from LT0001_02, frames [43]
+2023-02-21 15:11:01,395 - INFO - Movie downloaded to: ../tmp/downloads/LT0001_02/00015_01.ch5
+2023-02-21 15:11:06,231 - INFO - Saved corrected frames
+2023-02-21 15:11:06,232 - INFO - Processing well B2 from LT0001_02, frames [46]
+2023-02-21 15:11:12,491 - INFO - Movie downloaded to: ../tmp/downloads/LT0001_02/00026_01.ch5
+2023-02-21 15:11:16,506 - INFO - Saved corrected frames
+2023-02-21 15:11:16,506 - INFO - Processing well C15 from LT0001_02, frames [52]
+2023-02-21 15:11:22,513 - INFO - Movie downloaded to: ../tmp/downloads/LT0001_02/00063_01.ch5
+2023-02-21 15:11:25,450 - INFO - Saved corrected frames
+2023-02-21 15:11:25,451 - INFO - Processing well D2 from LT0001_02, frames [31]
+2023-02-21 15:11:31,946 - INFO - Movie downloaded to: ../tmp/downloads/LT0001_02/00074_01.ch5
+2023-02-21 15:11:35,846 - INFO - Saved corrected frames
+2023-02-21 15:11:35,846 - INFO - Processing well M16 from LT0001_02, frames [34]
+2023-02-21 15:11:41,928 - INFO - Movie downloaded to: ../tmp/downloads/LT0001_02/00304_01.ch5
+2023-02-21 15:11:45,456 - INFO - Saved corrected frames
+2023-02-21 15:11:45,456 - INFO - Processing well N3 from LT0001_02, frames [58]
+2023-02-21 15:11:51,294 - INFO - Movie downloaded to: ../tmp/downloads/LT0001_02/00315_01.ch5
+2023-02-21 15:11:54,583 - INFO - Saved corrected frames
+2023-02-21 15:11:54,583 - INFO - Processing well O16 from LT0001_02, frames [34]
+2023-02-21 15:12:21,484 - INFO - IDR stream initialized
+2023-02-21 15:12:21,564 - INFO - CellProfiler metadata has been converted and saved
+2023-02-21 15:12:21,658 - INFO - Aspera downloader initialized
+2023-02-21 15:12:24,516 - INFO - Basicpy preprocessor initialized
+2023-02-21 15:12:24,542 - INFO - Copied metadata file for CellProfiler run to use
+2023-02-21 15:12:25,485 - INFO - Running IDR stream with: 
+batch_size 10 
+start_batch 0 
+batches 386
+2023-02-21 15:12:25,486 - INFO - Profiling batch 0 with CellProfiler
+2023-02-21 15:12:25,486 - INFO - Processing well A15 from LT0001_02, frames [43]
+2023-02-21 15:12:32,173 - INFO - Movie downloaded to: ../tmp/downloads/LT0001_02/00015_01.ch5
+2023-02-21 15:12:36,789 - INFO - Saved corrected frames
+2023-02-21 15:12:36,789 - INFO - Processing well B2 from LT0001_02, frames [46]
+2023-02-21 15:12:43,002 - INFO - Movie downloaded to: ../tmp/downloads/LT0001_02/00026_01.ch5
+2023-02-21 15:12:46,742 - INFO - Saved corrected frames
+2023-02-21 15:12:46,743 - INFO - Processing well C15 from LT0001_02, frames [52]
+2023-02-21 15:12:52,674 - INFO - Movie downloaded to: ../tmp/downloads/LT0001_02/00063_01.ch5
+2023-02-21 15:12:55,726 - INFO - Saved corrected frames
+2023-02-21 15:12:55,727 - INFO - Processing well D2 from LT0001_02, frames [31]
+2023-02-21 15:13:02,316 - INFO - Movie downloaded to: ../tmp/downloads/LT0001_02/00074_01.ch5
+2023-02-21 15:13:06,313 - INFO - Saved corrected frames
+2023-02-21 15:13:06,313 - INFO - Processing well M16 from LT0001_02, frames [34]
+2023-02-21 15:13:15,882 - INFO - IDR stream initialized
+2023-02-21 15:13:15,925 - INFO - CellProfiler metadata has been converted and saved
+2023-02-21 15:13:16,016 - INFO - Aspera downloader initialized
+2023-02-21 15:13:19,170 - INFO - Basicpy preprocessor initialized
+2023-02-21 15:13:19,205 - INFO - Copied metadata file for CellProfiler run to use
+2023-02-21 15:13:20,154 - INFO - Running IDR stream with: 
+batch_size 3 
+start_batch 0 
+batches 1285
+2023-02-21 15:13:20,154 - INFO - Profiling batch 0 with CellProfiler
+2023-02-21 15:13:20,155 - INFO - Processing well A15 from LT0001_02, frames [43]
+2023-02-21 15:13:27,152 - INFO - Movie downloaded to: ../tmp/downloads/LT0001_02/00015_01.ch5
+2023-02-21 15:13:31,507 - INFO - Saved corrected frames
+2023-02-21 15:13:31,507 - INFO - Processing well B2 from LT0001_02, frames [46]
+2023-02-21 15:13:37,760 - INFO - Movie downloaded to: ../tmp/downloads/LT0001_02/00026_01.ch5
+2023-02-21 15:13:41,576 - INFO - Saved corrected frames
+2023-02-21 15:13:41,576 - INFO - Processing well C15 from LT0001_02, frames [52]
+2023-02-21 15:13:48,537 - INFO - Movie downloaded to: ../tmp/downloads/LT0001_02/00063_01.ch5
+2023-02-21 15:13:51,488 - INFO - Saved corrected frames
+2023-02-21 15:14:14,411 - INFO - CellProfiler run done
+2023-02-21 15:14:14,488 - INFO - Batch features compiled for CellProfiler features
+2023-02-21 15:14:14,489 - INFO - Temporary batch files cleared
+2023-02-21 15:14:14,508 - INFO - Stream run done in 54.35446071624756 seconds!

@@ -265,7 +265,6 @@ class CellProfilerRun:
             f"{self.tmp_dir}/CP_project/outputs/features/Nuclei.csv"
         )
         cp_output = pd.read_csv(nuclei_table, dtype=object)
-        print(cp_output)
 
         # change 'Metadata_Well' column data format
         cp_output = cp_output.drop("Metadata_Well", axis=1)
@@ -387,7 +386,7 @@ class CellProfilerRun:
                 self.compile_batch_CP_features(
                     output_path
                 )  # compile and save features with PyCytominer
-                #self.clear_batch()  # delete image/segmentation data for batch
+                self.clear_batch()  # delete image/segmentation data for batch
             except Exception as e:
                 self.logger.info(f"Error while profiling batch {batch_num}:")
                 self.logger.error(e)

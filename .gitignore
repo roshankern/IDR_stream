@@ -6,7 +6,7 @@ __pycache__/
 
 # Example files
 example_extracted_features
-tmp/
+tmp*/
 
 # PyBaSiC
 idrstream/PyBaSiC

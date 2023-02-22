@@ -466,7 +466,7 @@ class DeepProfilerRun:
                 # compile and save features with PyCytominer
                 self.compile_batch_DP_features(features_path)
                 # delete image/segmentation data for batch
-                self.clear_batch()
+                #self.clear_batch()
             except Exception as e:
                 self.logger.error(f"Error while profiling batch {batch_num}: {e}")
 

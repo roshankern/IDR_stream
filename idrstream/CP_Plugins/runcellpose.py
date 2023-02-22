@@ -441,6 +441,8 @@ The default is set to "Yes".
                     invert=self.invert.value,
             )
 
+            print(len(utils.outlines_list(y_data)))
+
             if self.remove_edge_masks:
                 y_data = utils.remove_edge_masks(y_data)
 

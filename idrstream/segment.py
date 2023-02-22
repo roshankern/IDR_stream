@@ -81,6 +81,8 @@ class CellPoseSegmentor:
             flow_threshold=self.model_specs["flow_threshold"],
             cellprob_threshold=self.model_specs["cellprob_threshold"],
         )
+        
+        print(len(utils.outlines_list(masks)))
 
         # remove cell masks if they are on the edge
         if self.model_specs["remove_edge_masks"]:
